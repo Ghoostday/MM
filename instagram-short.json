@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "data": [
+    {
+      "attribution": null,
+      "tags": [],
+      "type": "image",
+      "location": {
+        "latitude": 48.870678333,
+        "longitude": 2.331205
+      },
+      "comments": {
+        "count": 0,
+        "data": []
+      },
+      "filter": "Normal",
+      "created_time": "1417594815",
+      "link": "http://instagram.com/p/wIzxZNm35b/",
+      "likes": {
+        "count": 0,
+        "data": []
+      },
+      "images": {
+        "low_resolution": {
+          "url": "http://integrate.innology.fr/moonmasons-server/resources/test/image1.jpg",
+          "width": 306,
+          "height": 306
+        },
+        "thumbnail": {
+          "url": "http://integrate.innology.fr/moonmasons-server/resources/test/image1.jpg",
+          "width": 150,
+          "height": 150
+        },
+        "standard_resolution": {
+          "url": "http://integrate.innology.fr/moonmasons-server/resources/test/image1.jpg",
+          "width": 640,
+          "height": 640
+        }
+      },
+      "users_in_photo": [],
+      "caption": {
+        "created_time": "1417594815",
+        "text": "@mattenglund in Paris",
+        "from": {
+          "username": "maximecescau",
+          "profile_picture": "https://instagramimages-a.akamaihd.net/profiles/profile_86758_75sq_1354980590.jpg",
+          "id": "86758",
+          "full_name": "Maxime Cescau"
+        },
+        "id": "867170623420071516"
+      },
+      "user_has_liked": false,
+      "id": "867170622967086683_86758",
+      "user": {
+        "username": "maximecescau",
+        "website": "",
+        "profile_picture": "https://instagramimages-a.akamaihd.net/profiles/profile_86758_75sq_1354980590.jpg",
+        "full_name": "Maxime Cescau",
+        "bio": "",
+        "id": "86758"
+      }
+    },
+    {
+      "attribution": null,
+      "tags": [
+        "garrywinogrand",
+        "jeuxdepaume"
+      ],
+      "type": "image",
+      "location": {
+        "latitude": 48.865808716,
+        "name": "Jeu de Paume",
+        "longitude": 2.324080467,
+        "id": 52629
+      },
+      "comments": {
+        "count": 0,
+        "data": []
+      },
+      "filter": "Normal",
+      "created_time": "1417594813",
+      "link": "http://instagram.com/p/wIzxHjyhEQ/",
+      "likes": {
+        "count": 0,
+        "data": []
+      },
+      "images": {
+        "low_resolution": {
+          "url": "http://integrate.innology.fr/moonmasons-server/resources/test/image2.jpg",
+          "width": 306,
+          "height": 306
+        },
+        "thumbnail": {
+          "url": "http://integrate.innology.fr/moonmasons-server/resources/test/image2.jpg",
+          "width": 150,
+          "height": 150
+        },
+        "standard_resolution": {
+          "url": "http://integrate.innology.fr/moonmasons-server/resources/test/image2.jpg",
+          "width": 640,
+          "height": 640
+        }
+      },
+      "users_in_photo": [],
+      "caption": {
+        "created_time": "1417594813",
+        "text": "Garry Winogrand au jeux de Paume, #GarryWinogrand #jeuxdepaume",
+        "from": {
+          "username": "mr_k75",
+          "profile_picture": "https://instagramimages-a.akamaihd.net/profiles/profile_1175754739_75sq_1399723135.jpg",
+          "id": "1175754739",
+          "full_name": "Cordier Royer Kevin"
+        },
+        "id": "867170604473258257"
+      },
+      "user_has_liked": false,
+      "id": "867170604011884816_1175754739",
+      "user": {
+        "username": "mr_k75",
+        "website": "",
+        "profile_picture": "https://instagramimages-a.akamaihd.net/profiles/profile_1175754739_75sq_1399723135.jpg",
+        "full_name": "Cordier Royer Kevin",
+        "bio": "",
+        "id": "1175754739"
+      }
+    }
+  ]
+}
