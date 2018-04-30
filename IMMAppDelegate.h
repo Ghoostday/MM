@@ -1,10 +1,4 @@
-//
-//  IMMAppDelegate.h
-//  Moonmasons
-//
-//  Created by Johan Wiig on 16/09/14.
-//  Copyright (c) 2014 Innology. All rights reserved.
-//
+Copyright jdc
 
 #import <UIKit/UIKit.h>
 #import "IMMSearchEngine.h"
