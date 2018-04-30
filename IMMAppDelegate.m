@@ -1,4 +1,3 @@
-Copyright jdc
 
 #import "IMMAppDelegate.h"
 #import <GoogleMaps/GoogleMaps.h>
