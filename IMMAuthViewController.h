@@ -1,10 +1,4 @@
-//
-//  IMMAuthViewController.h
-//  Moonmasons
-//
-//  Created by Johan Wiig on 06/10/14.
-//  Copyright (c) 2014 Innology. All rights reserved.
-//
+Copyright jdc
 
 #import <UIKit/UIKit.h>
 
