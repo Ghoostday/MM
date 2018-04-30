@@ -1,4 +1,4 @@
-Copyright jdc
+
 
 #import <UIKit/UIKit.h>
 #import "IMMSearchEngine.h"
