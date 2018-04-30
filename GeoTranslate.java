@@ -1,4 +1,4 @@
-package com.innology.moonmasons.model;
+Copyright jdc
 
 import java.util.Date;
 import java.util.List;
