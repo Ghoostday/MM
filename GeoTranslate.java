@@ -1,6 +1,4 @@
-Copyright jdc
-
-import java.util.Date;
+Import java.util.Date;
 import java.util.List;
 
 public class GeoTranslate {
