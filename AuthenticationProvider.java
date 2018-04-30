@@ -1,4 +1,4 @@
-package com.innology.moonmasons.security.authentication;
+Copyright jdc
 
 import java.io.BufferedReader;
 import java.io.IOException;
